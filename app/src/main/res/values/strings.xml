@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="title_activity_main">首页</string>
+    <string name="title_home">首页</string>
+    <string name="title_dashboard">发现</string>
+    <string name="title_account">我的</string>
+</resources>
